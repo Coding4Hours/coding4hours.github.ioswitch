@@ -3,8 +3,8 @@ title: "Welcome to my blog"
 date: 2024-07-06
 layout: homepage
 subtitle: This is the demo site for the Mere Blog Theme
-image: https://raw.risrhymes/mere-blog-theme/master/img/home.jpg
-hero_image: https://raw.githubusercontent.com/chrisrhymes/mere-blog-theme/master/img/home.jpg
+image: /img/home.jpg
+hero_image: /img/home.jpg
 hero_height: is-large
 ---
 

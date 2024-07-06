@@ -1,5 +1,1 @@
-#theme: minima
-remote_theme: chrisrhymes/mere-blog-theme
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
+theme: minima
